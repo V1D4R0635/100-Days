@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    background-image: url(https://cdn.racingnews365.com/2024/Verstappen/_1092x683_crop_center-center_85_none/13873289/XPB_1324216_HiRes.webp?v=1733659242);
+    color: white;
+}
+
+a{
+    color: inherit;
+}
+
+.container{
+    background-color: rgba(138, 135, 135, 0.1);
+}
